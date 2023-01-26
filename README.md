@@ -51,10 +51,12 @@ def max_marks(list1):
 
 ![Screenshot from 2023-01-26 17-49-15](https://user-images.githubusercontent.com/120550359/214833871-ae622303-7d32-471c-981a-a99b96dec044.png)
 
+ 2)
+![Screenshot from 2023-01-26 17-51-15](https://user-images.githubusercontent.com/120550359/214834208-0c95a6f5-67f1-4877-bb9c-a326b2e6586f.png)
 
+3)
 
-
-
+![Screenshot from 2023-01-26 17-52-40](https://user-images.githubusercontent.com/120550359/214834247-567bbf25-5636-4bec-8f2f-586aba854fb1.png)
 
 
 
