@@ -47,7 +47,16 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-26%2017-49-15.png
+1)
+
+![Screenshot from 2023-01-26 17-49-15](https://user-images.githubusercontent.com/120550359/214833871-ae622303-7d32-471c-981a-a99b96dec044.png)
+
+
+
+
+
+
+
 
 
 ## Result:
